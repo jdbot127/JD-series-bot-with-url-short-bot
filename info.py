@@ -19,7 +19,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "5150314385:AAFuUjCUleh5rT-JqOlCrJNhstHJ-Qf
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/9f5a7d04c67972b41e994.jpg https://telegra.ph/file/78501ede09af36c54b3ed.jpg https://telegra.ph/file/32627d1bb8303070694fd.jpg https://telegra.ph/file/d2be74e19ff39ad0e04ed.jpg https://telegra.ph/file/5b14b5a77e0e70fa389d5.jpg https://telegra.ph/file/33850db4bfb95fbd764e7.jpg https://telegra.ph/file/57480f01e2aa20e1b882d.jpg https://telegra.ph/file/94f3540420e200de4649a.jpg https://telegra.ph/file/a1d8b86ff4586df043325.jpg https://telegra.ph/file/39c8400e47efec3718459.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/0bf18bc7f5e9a7ee084df.jpg https://telegra.ph/file/05d85d47d938e36d1af50.jpg https://telegra.ph/file/6ca844dfe368abd6d49a7.jpg https://telegra.ph/file/c8667452f5bf256d481e4.jpg https://telegra.ph/file/f6a155cb295828db292e7.jpg')).split()
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '739667270').split()]
