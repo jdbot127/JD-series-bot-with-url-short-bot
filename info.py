@@ -43,13 +43,13 @@ P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b><i>ᴛɪᴛʟᴇ:</b></i> <code>{file_name}</code>\n▬▬▬▬▬▬▬▬▬▬▬▬\n🍃<b><i>Movies Update Channel</b></i>🍃\n<i>@freakersmovie</i>\n🍃<b><i>Series Update Channel</b></i>🍃\n<i>@freakers_series</i>\n▬▬▬▬▬▬▬▬▬▬▬▬\n☘𝙅𝙤𝙞𝙣:-<b><i>https://t.me/freakersmovie</b></i>\n\n🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭𝙁𝙞𝙡𝙢𝙮™🍿©\n100% ғᴀꜱᴛ & ϙᴜᴀʟɪᴛʏ\n▬▬▬▬▬▬▬▬▬▬▬▬")
-BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<b><i>ᴛɪᴛʟᴇ:</b></i> <code>{file_name}</code>\n▬▬▬▬▬▬▬▬▬▬▬▬\n🍃<b><i>Movies Update Channel</b></i>🍃\n<i>@freakersmovie</i>\n🍃<b><i>Series Update Channel</b></i>🍃\n<i>@freakers_series</i>\n▬▬▬▬▬▬▬▬▬▬▬▬\n☘𝙅𝙤𝙞𝙣:-<b><i>https://t.me/freakersmovie</b></i>\n\n🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭𝙁𝙞𝙡𝙢𝙮™🍿©\n100% ғᴀꜱᴛ & ϙᴜᴀʟɪᴛʏ\n▬▬▬▬▬▬▬▬▬▬▬▬")
+BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION",)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🎙 <i><b>ᴛɪᴛʟᴇ</i></b>: <b><a href={url}>{title}</a> [{year}]</b>\n🎯 <i><b>ʀᴀᴛɪɴɢ</i></b>: <a href={url}><b>IMDb</b></a>⭐️ <i>{rating}/10</i>\n🧭 <i><b>ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ</i></b>: <i>{release_date}</i> \n🎭 <i><b>ɢᴇɴʀᴇ</i></b>: <a href={url}><i>{genres}</i></a>\n📚 <i><b>ɴᴏ ᴏғ sᴇᴀsᴏɴs</i></b>: <i>{seasons} Seasons</i>\n\n🎊 <i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ</i></b>: <i>[ғʀᴇᴀᴋᴇʀs sᴇʀɪᴇs](https://t.me/FF_Series_Only)</i>")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "True"), False)
 SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), True)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
-FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '')).split()]
+FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001175901840')).split()]
 MELCOW_NEW_USERS = is_enabled((environ.get('MELCOW_NEW_USERS', "True")), True)
 PROTECT_CONTENT = is_enabled((environ.get('PROTECT_CONTENT', "False")), False)
 PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "False")), True)
@@ -72,7 +72,7 @@ URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'atglinks.com')
 URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '2948014f60b7700cbc5bca4a6b241b31f1ccd39c')
 
      # Auto Delete For Group Message (Self Delete) #
-SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 3600))
+SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 84000))
 SELF_DELETE = environ.get('SELF_DELETE', True)
 if SELF_DELETE == "True":
     SELF_DELETE = True
