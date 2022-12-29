@@ -40,7 +40,7 @@ Riverdale S01 ✅(right)
 Riverdale E05 ❌(wrong)
 Riverdale S01E05 ✅(right)
 Riverdale ✅(right)</i>"""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ffseriesbot>sᴇʀɪᴇs ʙᴏᴛ</a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ffseriesbot>ᴘʀᴏғᴇssᴏʀ ᴊᴅ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
 🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/freakersmovie>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
@@ -52,7 +52,8 @@ Riverdale ✅(right)</i>"""
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://railway.app/>ʀᴀɪʟᴡᴀʏ</a>\n
 ⚙ sᴏᴜʀᴄᴇ  : <a href=https://github.com/>ɢɪᴛʜᴜʙ</a>\n
-⚡️ ᴠᴇʀsɪᴏɴ : <a href=https://t.me/naughty_nonsense>ᴠ4.0</a>\n</b></i>"""
+⚡️ ᴠᴇʀsɪᴏɴ : <a href=https://t.me/naughty_nonsense>ᴠ4.0</a>\n
+🫠 ɪɴsᴛᴀɢʀᴀᴍ : <a href=https://www.instagram.com/naughty__nonsense/>ɪɴsᴛᴀ ɪᴅ</a></b></i>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
@@ -135,14 +136,13 @@ This module only works for my admins
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """<u>#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩</u>
 
-<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑺𝒆𝒓𝒊𝒆𝒔 𝑺𝒆𝒂𝒓𝒄𝒉 🔎 𝑩𝒐𝒕\n    
-<b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
+<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒐𝒓 𝑱𝑫 𝑩𝒐𝒕>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
 """
     LOG_TEXT_P = """<u>#𝐍𝐞𝐰𝐔𝐬𝐞𝐫</u>  
 
-<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑺𝒆𝒓𝒊𝒆𝒔 𝑺𝒆𝒂𝒓𝒄𝒉 🔎 𝑩𝒐𝒕
+<b>᚛› 𝐁𝐨𝐭 ⪼ </b>𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒐𝒓 𝑱𝑫 𝑩𝒐𝒕
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
 """
