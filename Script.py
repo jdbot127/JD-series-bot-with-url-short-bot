@@ -53,7 +53,7 @@ Riverdale ✅(right)</i>"""
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://railway.app/>ʀᴀɪʟᴡᴀʏ</a>\n
 ⚙ sᴏᴜʀᴄᴇ  : <a href=https://github.com/>ɢɪᴛʜᴜʙ</a>\n
 ⚡️ ᴠᴇʀsɪᴏɴ : <a href=https://t.me/naughty_nonsense>ᴠ4.0</a>\n
-🫠 ɪɴsᴛᴀɢʀᴀᴍ : <a href=https://www.instagram.com/naughty__nonsense/>ɪɴsᴛᴀ ɪᴅ</a></b></i>"""
+🫠 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ : <a href=https://www.instagram.com/naughty__nonsense/>ɪɴsᴛᴀɢʀᴀᴍ</a></b></i>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
