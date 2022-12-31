@@ -26,7 +26,7 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1001518145549 -1001175901840 -1001221611833').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
-auth_channel = environ.get('AUTH_CHANNEL', '-1001892590679')
+auth_channel = environ.get('AUTH_CHANNEL', '-1001565856771')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
@@ -38,11 +38,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001555083458'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'freakers_series')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'SixFlix')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
-CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b><i>ᴛɪᴛʟᴇ:</b></i> <code>{file_name}</code>\n▬▬▬▬▬▬▬▬▬▬▬▬\n🍃<b><i>Movies Update Channel</b></i>🍃\n<i>https://t.me/+ERyRrnI5CPEyYmFl</i>\n🍃<b><i>Series Update Channel</b></i>🍃\n<i>https://t.me/+4NvHgqi9_FRhNjY1</i>\n▬▬▬▬▬▬▬▬▬▬▬▬\n☘𝙅𝙤𝙞𝙣:-<b><i>https://t.me/freakersmovie</b></i>\n\n🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭𝙁𝙞𝙡𝙢𝙮™🍿©\n100% ғᴀꜱᴛ & ϙᴜᴀʟɪᴛʏ\n▬▬▬▬▬▬▬▬▬▬▬▬")
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<b><i>ᴛɪᴛʟᴇ:</b></i> <code>{file_name}</code>\n▬▬▬▬▬▬▬▬▬▬▬▬\n🍃<b><i>Movies Update Channel</b></i>🍃\n<i>https://t.me/+HxPeOzEU3nlmMTdl</i>\n🍃<b><i>Series Update Channel</b></i>🍃\n<i>https://t.me/+4NvHgqi9_FRhNjY1</i>\n▬▬▬▬▬▬▬▬▬▬▬▬\n☘𝙅𝙤𝙞𝙣:-<b><i>https://t.me/Freakers_Filmy</b></i>\n\n🧐𝙁𝙧𝙚𝙖𝙠𝙚𝙧𝙨🎭𝙁𝙞𝙡𝙢𝙮™🍿©\n100% ғᴀꜱᴛ & ϙᴜᴀʟɪᴛʏ\n▬▬▬▬▬▬▬▬▬▬▬▬")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION",)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", "🎙 <i><b>ᴛɪᴛʟᴇ</i></b>: <b><a href={url}>{title}</a> [{year}]</b>\n🎯 <i><b>ʀᴀᴛɪɴɢ</i></b>: <a href={url}><b>IMDb</b></a>⭐️ <i>{rating}/10</i>\n🧭 <i><b>ʀᴇʟᴇᴀsᴇ ᴅᴀᴛᴇ</i></b>: <i>{release_date}</i> \n🎭 <i><b>ɢᴇɴʀᴇ</i></b>: <a href={url}><i>{genres}</i></a>\n📚 <i><b>ɴᴏ ᴏғ sᴇᴀsᴏɴs</i></b>: <i>{seasons} Seasons</i>\n\n🎊 <i><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ</i></b>: <i>[ғʀᴇᴀᴋᴇʀs sᴇʀɪᴇs](https://t.me/FF_Series_Only)</i>")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "True"), False)
@@ -79,10 +79,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "🤔𝙃𝙤𝙬 𝙏𝙤 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙❓"
-DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/308"
+DOWNLOAD_TEXT_URL = "https://t.me/Freakers_Filmy/308"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "sᴜʙsᴄʀɪʙᴇ"
-CAPTION_BUTTON_URL = "https://t.me/freakers_series"
+CAPTION_BUTTON_URL = "https://t.me/SixFlix"
 
    # Auto Delete For Bot Sending Files #
