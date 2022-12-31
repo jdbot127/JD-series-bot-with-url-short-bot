@@ -42,8 +42,8 @@ Riverdale S01E05 ✅(right)
 Riverdale ✅(right)</i>"""
     ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/ffseriesbot>ᴘʀᴏғᴇssᴏʀ ᴊᴅ</a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://www.instagram.com/naughty__nonsense/>ᴍᴀɴᴀғ</a>\n
-🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/freakersfilmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+ERyRrnI5CPEyYmFl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎞 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ : <a href=https://t.me/Freakers_Filmy>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+🎙 ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+HxPeOzEU3nlmMTdl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 📺 sᴇʀɪᴇs ɢʀᴏᴜᴘ : <a href=https://t.me/FF_Series_Only>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🎙 sᴇʀɪᴇs ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/+4NvHgqi9_FRhNjY1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 📺 ᴍᴏᴠɪᴇs ʙᴏᴛ  : <a href=https://t.me/freakersfilterbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
@@ -78,7 +78,7 @@ Riverdale ✅(right)</i>"""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/freakersfilmy)</code>
+<code>[Button Text](buttonurl:https://t.me/Freakers_Filmy)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
