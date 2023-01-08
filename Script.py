@@ -49,7 +49,7 @@ Riverdale ✅(right)</i>"""
 📺 ᴍᴏᴠɪᴇs ʙᴏᴛ  : <a href=https://t.me/freakersfilterbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🔞 18+ ʙᴏᴛ : <a href=https://t.me/A4_Adultsbot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 ✍🏼 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://play.google.com/store/apps/details?id=ru.iiec.pydroid3>ᴘʏᴛʜᴏɴ 3</a>\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://t.me/Freakers_Filmy>ᴘʏʀᴏɢʀᴀᴍ</a>\n
+📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://docs.pyrogram.org>ᴘʏʀᴏɢʀᴀᴍ</a>\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href=https://mogenius.com/>ᴍᴏɢᴇɴɪᴜs</a>\n
 ⚙ sᴏᴜʀᴄᴇ  : <a href=https://github.com/>ɢɪᴛʜᴜʙ</a>\n
 ⚡️ ᴠᴇʀsɪᴏɴ : <a href=https://t.me/naughty_nonsense>ᴠ4.0</a>\n
