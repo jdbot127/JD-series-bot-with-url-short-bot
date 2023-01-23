@@ -71,8 +71,8 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
     
       # URL Shortener #
 
-URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'shortner.io')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '254cd76e18d21b4295abf39ccecb580a07a0d74d')
+URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'atglinks.com')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '2948014f60b7700cbc5bca4a6b241b31f1ccd39c')
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 3600))
@@ -82,7 +82,7 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "🤔𝙃𝙤𝙬 𝙏𝙤 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙❓"
-DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/363"
+DOWNLOAD_TEXT_URL = "https://t.me/SixFlix/348"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "sᴜʙsᴄʀɪʙᴇ"
